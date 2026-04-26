@@ -174,8 +174,12 @@ In MCI detection, **false negatives are dangerous**. Missing an early sign of co
 
 ## 📸 Project Screenshots
 
-> Screenshots of the Streamlit dashboard will be added after deployment.
-> Confusion matrix, ROC curve, and sample predictions will be added after ADNI dataset training.
+### 🖥️ Streamlit Dashboard (Phase 1 — UI Complete)
+
+![Dashboard](screenshots/dashboard.png)
+
+### Expected Outputs (Post-Training)
+*Confusion matrix, ROC curve, and sample predictions will be added after ADNI dataset training.*
 
 ---
 
