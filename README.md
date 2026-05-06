@@ -22,7 +22,7 @@ This project was presented at the **RAET'26 National Conference** and implements
 
 ```
         Input MRI (224x224)
-                │
+               │
     ┌──────────┴──────────┐
     ▼                     ▼
 🧠 ResNet50          🔍 DenseNet121
